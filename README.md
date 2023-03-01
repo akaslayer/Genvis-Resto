@@ -3,4 +3,4 @@ GenvisResto adalah website pemesanan makanan khas Jepang yang dilengkapi dengan 
 
 
 # Link Hostingan
-https://genvus-resto.rf.gd/
+http://genvus-resto.rf.gd
