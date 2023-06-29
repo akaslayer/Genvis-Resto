@@ -13,4 +13,4 @@ Email : user@gmail.com
 Pass : user123
 
 # Link Hosting
-http://genvus-resto.rf.gd
+http://genvisresto.rf.gd/
